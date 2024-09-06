@@ -21,7 +21,7 @@ Unsere App kombiniert alles, was Hunde lieben: von Spiel und Bewegung über Outf
 
 ---
 
-<img src="file:///Users/kalenderusta/Downloads/kalender%20.jpg" title="" alt="" width="280">
+![Dog24](https://github.com/KalenderUsta/Dog24/blob/main/Dog24.jpg)
 
 ## Features
 
